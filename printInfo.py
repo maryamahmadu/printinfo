@@ -1,0 +1,6 @@
+print("Name:Ahmadu,Maryam Abdulazeez")
+print("email_address : abdulazeezmaryam108@gmail.com")
+print("username :@maryam")
+print("biostack : genomics")
+print("twitter handle : maryamahmadu108")
+print("hamming distance : 0 because strings are unequal")
